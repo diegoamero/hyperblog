@@ -6,9 +6,8 @@
 body{
     text-align: center;
     font-family: arial;
-    color: blue;
+    color: #333;
 }
-
 #container{
     margin: 0 auto;
     width: 70%;
