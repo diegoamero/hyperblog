@@ -1,5 +1,12 @@
 body{
     text-align: center;
     font-family: arial;
-    color: #f37388;
+    color: #6d6c6c;
+}
+
+#container{
+    margin: 0 auto;
+    width: 70%;
+    padding: 1em;
+    border: 1px solid #6d6c6c;
 }
