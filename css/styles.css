@@ -6,14 +6,17 @@
 body{
     text-align: center;
     font-family: arial;
-    color: red;
+    color: #686767;
+    background-color: #2a2a2a;
 }
 
 #container{
     margin: 0 auto;
     width: 70%;
     margin-top: 2em;
+    text-align: left;
     border: 1px solid #6d6c6c;
+    background-color: white;
 }
 
 #header{
@@ -29,4 +32,13 @@ body{
 #header span{
     font-weight: normal;
     font-size: 0.5;
+}
+
+#post{
+    padding: 1em;
+}
+
+#logo{
+    width: 35px;
+    vertical-align: middle;
 }
