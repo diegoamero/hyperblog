@@ -6,14 +6,17 @@
 body{
     text-align: center;
     font-family: arial;
-    color: #333;
+    color: #686767;
+    background-color: #2a2a2a;
 }
 
 #container{
     margin: 0 auto;
     width: 70%;
     margin-top: 2em;
+    text-align: left;
     border: 1px solid #6d6c6c;
+    background-color: white;
 }
 
 #header{
@@ -32,7 +35,10 @@ body{
 }
 
 #post{
-    margin-top: 1em;
-    text-align: left;
-    padding: 0.3em 1em;
+    padding: 1em;
+}
+
+#logo{
+    width: 35px;
+    vertical-align: middle;
 }
