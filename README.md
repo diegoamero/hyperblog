@@ -8,5 +8,7 @@ Un blog increíble para el[curso de Git y Github](https://platzi.com/cursos/git-
 * El verdadero amor por las buenas prácticas
 * Las múltiples perosnalidades de Freddy
 * Made with Love
+* Incluye ejemplos en Linux
+* Disponible para todas las edades
 
 Y como un amable recordatorio. **Este readme.md es un chiste**. Diseñado para el el ejemplo.
